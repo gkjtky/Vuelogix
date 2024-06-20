@@ -3,6 +3,7 @@ package testpkg;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
+import basepkg.BaseClass;
 import pagepkg.TNSTChomePage;
 import pagepkg.TNSTCloginpage;
 import pagepkg.UserHome;
