@@ -1,4 +1,4 @@
-Vuelogix Automation Testing - Machine Testing  
+Vuelogix Automation Testing - Machine Test  
 Done By Georgekutty Joseph  
 I am testing the login page of TNSTC - Tamil Nadu State Transport Corporation  
 The test flow is as follows:   
